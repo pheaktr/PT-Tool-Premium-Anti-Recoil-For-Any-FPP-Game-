@@ -38,7 +38,7 @@
 
 For updates, license purchases, and technical support, join our official channels:
 
-- **Telegram Channel**: [@pttool_168bot](https://t.me/pttool_168bot)
+- **License Key Bot**: [@pttool_168bot](https://t.me/pttool_168bot)
 - **Direct Support**: [@New_PheakTra](https://t.me/New_PheakTra)
 
 ---
