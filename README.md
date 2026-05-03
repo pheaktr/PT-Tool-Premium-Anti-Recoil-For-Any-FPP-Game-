@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Undetected-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)
 
-**PT-Tool Premium** is a high-performance, lightweight utility designed for Rainbow Six Siege. It provides precise recoil management with a sleek, modern interface, ensuring a seamless gaming experience.
+**PT-Tool Premium** is a high-performance, lightweight utility designed for PUBG PC. It provides precise recoil management with a sleek, modern interface, ensuring a seamless gaming experience.
 
 ---
 
