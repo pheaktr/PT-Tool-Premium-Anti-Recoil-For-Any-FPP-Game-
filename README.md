@@ -1,4 +1,4 @@
-# 🚀 PT-Tool Premium | R6 Recoil Core
+# 🚀 PT-Tool Premium
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Undetected-green?style=for-the-badge)
